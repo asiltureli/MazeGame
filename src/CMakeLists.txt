@@ -1,0 +1,6 @@
+add_subdirectory(maze)
+add_subdirectory(native_game)
+add_subdirectory(abstract_factory_game)
+add_subdirectory(factory_game)
+add_subdirectory(builder_game)
+add_subdirectory(prototype_game)
